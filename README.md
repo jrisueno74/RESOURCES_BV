@@ -6,3 +6,5 @@ https://jrisueno74.github.io/RESOURCES_BV/BIO.png<br>
 https://jrisueno74.github.io/RESOURCES_BV/IND.png<br>
 https://jrisueno74.github.io/RESOURCES_BV/CER.png<br>
 https://jrisueno74.github.io/RESOURCES_BV/PRISM_Animation.webp<br>
+https://jrisueno74.github.io/RESOURCES_BV/prismbanner1.png<br>
+https://jrisueno74.github.io/RESOURCES_BV/prismbanner2.png<br>
