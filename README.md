@@ -10,5 +10,5 @@ https://jrisueno74.github.io/RESOURCES_BV/prismbanner1.png<br>
 https://jrisueno74.github.io/RESOURCES_BV/prismbanner2.png<br>
 https://jrisueno74.github.io/RESOURCES_BV/Logo_IDP.png<br>
 https://jrisueno74.github.io/RESOURCES_BV/MAGGIE.png<br>
-AI-GILE_LOGO_DarkBackground.png<br>
-AI-GILE_LOGO_ClearBackground.png
+https://jrisueno74.github.io/RESOURCES_BV/AI-GILE_LOGO_DarkBackground.png<br>
+https://jrisueno74.github.io/RESOURCES_BV/AI-GILE_LOGO_ClearBackground.png
