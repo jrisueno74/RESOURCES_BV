@@ -9,4 +9,6 @@ https://jrisueno74.github.io/RESOURCES_BV/PRISM_Animation1.webp<br>
 https://jrisueno74.github.io/RESOURCES_BV/prismbanner1.png<br>
 https://jrisueno74.github.io/RESOURCES_BV/prismbanner2.png<br>
 https://jrisueno74.github.io/RESOURCES_BV/Logo_IDP.png<br>
-https://jrisueno74.github.io/RESOURCES_BV/MAGGIE.png
+https://jrisueno74.github.io/RESOURCES_BV/MAGGIE.png<br>
+AI-GILE_LOGO_DarkBackground.png<br>
+AI-GILE_LOGO_ClearBackground.png
